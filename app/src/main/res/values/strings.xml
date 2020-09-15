@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Cocktail Test</string>
+    <string name="app_name">Random drinks 0.1</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search Cocktail</string>
+    <string name="cocktail_list_ingredient_more">\u0020and %d more ingredients</string>
+    <string name="cocktail_detail_instructions_title">\u2022 How to prepare</string>
+    <string name="error_network">Network error</string>
+    <string name="error_data">No data to show</string>
 </resources>
